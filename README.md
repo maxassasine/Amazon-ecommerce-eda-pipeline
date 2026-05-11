@@ -16,7 +16,8 @@ A complete end-to-end data analytics solution combining **data cleaning automati
 
 This project provides a **production-ready pipeline** for processing and analyzing e-commerce sales data:
 
-- **Clean & Process:** 115,000+ raw rows → 7,351 validated records
+- **Clean & Process:** 128,975
+ raw rows → 114,623 validated records
 - **Analyze & Visualize:** Interactive Power BI dashboard with 6 KPI metrics
 - **Automate & Reuse:** Google Colab pipeline for consistent preprocessing
 - **Share & Collaborate:** GitHub repository for team access
