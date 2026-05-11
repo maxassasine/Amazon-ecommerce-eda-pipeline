@@ -46,7 +46,7 @@ This project provides a **production-ready pipeline** for processing and analyzi
 Interactive, real-time Power BI dashboard for monitoring e-commerce KPIs and performance metrics.
 
 ### 📥 Download Dashboard
-**[📄 Download PowerBI Dashboard PDF](./ECommerce_Sales_Dashboard.pdf)** ← Click to view full dashboard
+**[📄 Download PowerBI Dashboard PDF](./ECommerce_Sales.pdf)** ← Click to view full dashboard
 
 ### Dashboard Metrics
 
